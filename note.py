@@ -155,6 +155,9 @@
 # pivot_table() handles duplicates
 # Melt to analyze, Pivot to present------
 
+# categorial data in pandas
+
+
 
 
 
